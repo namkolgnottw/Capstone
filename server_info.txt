@@ -1,0 +1,9 @@
+127.0.0.1
+8080
+127.0.0.1
+8080
+127.0.0.1
+8080
+//first line:ip-address  
+//second line:port  
+//only read first 3 line. only 3 web-server/machine only.
